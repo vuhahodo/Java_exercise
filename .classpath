@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="Thread_ex1/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/jsoup-1.19.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
